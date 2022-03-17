@@ -267,3 +267,4 @@
 2022-03-17 11:20:47,748 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-03-17 11:20:47,750 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ronal\Desktop\Apicacao-JSP\aplicacao-jsp\src\main\resources
 2022-03-17 11:20:47,752 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-17 11:20:47,755 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ronal\Desktop\Apicacao-JSP\aplicacao-jsp\src\test\resources
